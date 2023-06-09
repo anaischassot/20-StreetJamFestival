@@ -93,4 +93,25 @@ p {
 img {
   display: block;
   max-width: 100%;
+.section-horaire {
+  background-color: #008c8c;
+  padding: 15px;
+  margin: 42px 27px 0;
+  border-radius: 70px;
+}
+
+.horaire,
+.marque {
+  font-size: 26px;
+}
+
+.horaire {
+  padding: 0 13px 24px;
+  margin: 0;
+}
+
+.horaire,
+.infos {
+  margin: 0;
+  padding: 0 13px;
 }
