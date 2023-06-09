@@ -126,6 +126,11 @@ img {
   margin: 0;
   padding: 0 13px;
 }
+
+span.important {
+  color: #00ffea;
+}
+
 .navigation,
 .horaire,
 .marque {
@@ -148,6 +153,12 @@ img {
   max-width: 170px;
   margin: 0 auto;
   padding: 20px;
+}
+
+.plat {
+  padding: 50px 10px 35px;
+}
+
 .container-icone {
   display: flex;
   flex-direction: row;
