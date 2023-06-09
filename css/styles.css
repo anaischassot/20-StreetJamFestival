@@ -115,3 +115,20 @@ img {
   margin: 0;
   padding: 0 13px;
 }
+.navigation,
+.horaire,
+.marque {
+  font-family: "Oswald", sans-serif;
+  font-weight: 200;
+}
+
+.infos {
+  line-height: 22px;
+  font-family: "Noto Sans TC", sans-serif;
+  font-weight: 100;
+}
+
+.marque {
+  padding: 0 26px;
+  margin: 0;
+}
