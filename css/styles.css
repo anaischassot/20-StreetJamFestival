@@ -27,6 +27,13 @@ a {
   text-decoration: none;
 }
 
+.logo,
+a,
+h2,
+.horaire,
+.marque {
+  color: #f4ff00;
+}
 
 .navigation,
 .onglet {
@@ -37,6 +44,31 @@ a {
 p {
   font-size: 18px;
 }
+
+.logo {
+  font-weight: 500;
+  text-align: center;
+  text-shadow: -5px 5px 3px #2b94e2;
+  font-family: "Oswald", sans-serif;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.street-title {
+  font-size: 116px;
+}
+
+.jam-title {
+  line-height: 20px;
+  font-size: 211px;
+}
+
+.festival-title {
+  font-size: 93px;
+  line-height: 170px;
+}
+
 }
 
 img {
